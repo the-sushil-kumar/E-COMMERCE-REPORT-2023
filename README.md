@@ -47,4 +47,4 @@
     Support data-driven decision-making
 
 ## 📊 Dashboard Preview  
-![E-Commerce Report 2023](https://raw.githubusercontent.com/yourusername/reponame/main/images/dashboard.png)
+![E-Commerce Report 2023](https://github.com/the-sushil-kumar/E-COMMERCE-REPORT-2023/blob/main/E-Commerce%20Report%202023.jpg)
